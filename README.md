@@ -48,4 +48,4 @@ A loyal customer base and a powerful Electronics category,
 -Double down on retention strategies, because loyal customers already carry the business.
 
 ## Files in this repository
--dashboard pdf -- Power BI dashboard
+-dashboard pbix, jpeg -- Power BI dashboard
