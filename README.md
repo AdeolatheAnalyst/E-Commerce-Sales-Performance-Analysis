@@ -1,7 +1,7 @@
 # E-Commerce-Sales-Performance-Analysis
 
 ## Project Overview
-Analyzing sales data to uncover trends, insights and business recommendations to smart data-driven decisions for sustainable growth.
+Analyzing e-commerce sales data to uncover trends, insights and business recommendations to smart data-driven decisions for sustainable growth.
 
 ## Business Questions
 -Which product category generate the most revenue?
